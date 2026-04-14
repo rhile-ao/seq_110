@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Jireh/Downloads
+vseq_101
+!s110 1776136506
+!i10b 1
+!s100 YLY1QHKgZTjVDC7adMoGN0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I`FkBM8zjO[S7]2G4BKode3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Jireh/Desktop/FSM_Demo/FSM_seq/seq_110
+w1776136024
+8C:/Users/Jireh/Desktop/FSM_Demo/FSM_seq/seq_110/seq_110.v
+FC:/Users/Jireh/Desktop/FSM_Demo/FSM_seq/seq_110/seq_110.v
+!i122 4
+L0 15 59
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z4 !s108 1776136506.000000
+!s107 C:/Users/Jireh/Desktop/FSM_Demo/FSM_seq/seq_110/seq_110.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jireh/Desktop/FSM_Demo/FSM_seq/seq_110/seq_110.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtestbench
+!s110 1776136507
+!i10b 1
+!s100 0_671H>>7;;l46b=n=W^52
+R0
+I=AmChT02mPd;Q<gW7X9^Y3
+R1
+R2
+w1776136503
+8C:/Users/Jireh/Desktop/FSM_Demo/FSM_seq/seq_110/testbench.v
+FC:/Users/Jireh/Desktop/FSM_Demo/FSM_seq/seq_110/testbench.v
+!i122 5
+L0 3 36
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Jireh/Desktop/FSM_Demo/FSM_seq/seq_110/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jireh/Desktop/FSM_Demo/FSM_seq/seq_110/testbench.v|
+!i113 1
+R5
+R6
